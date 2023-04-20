@@ -10,8 +10,6 @@ COPY package-lock.json .
 
 # Install dependencies
 RUN npm install
-RUN npm install -g @angular/cli
-
 
 # Copy the rest of the application code into the container
 COPY . .
