@@ -2,10 +2,8 @@
   "name": "frontend",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "build": "ng build"
-  },
-    "keywords": [],
+  "scripts": {},
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
